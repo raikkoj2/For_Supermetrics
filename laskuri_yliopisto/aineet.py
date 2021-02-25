@@ -1,0 +1,8 @@
+ainereaalit = ["Filosofia", "Fysiikka", "Kemia", "Historia", "Maantiede", "Psykologia", "Terveystieto", "Uskonto", "Elämänkatsomustieto", "Yhteiskuntaoppi", "Biologia"]
+kielen_pituus = ["pitkä", "keskipitkä", "lyhyt"]
+kielet = ["Englanti", "Ruotsi", "Saksa", "Ranska", "Venäjä", "Espanja", "Italia", "Portugali", "Latina", "Inarinsaame", "Koltansaame", "Pohjoissaame", "Suomi"]
+biologiset_aineet = ["Kemia", "Biologia"]
+matemaattiset_aineet = ["Fysiikka", "Kemia"]
+yhteiskuntatieteelliset_aineet = ["Yhteiskuntaoppi", "Psykologia", "Filosofia", "Historia"]
+aidinkielet = ["Äidinkieli Suomi", "Äidinkieli Ruotsi", "Äidinkieli Inarinsaame", "Äidinkieli Pohjoissaame", "Äidinkieli Koltansaame", "Suomi 2", "Ruotsi 2"]
+uskonnolliset_aineet = ["Uskonto", "Elämänkatsomustieto"]

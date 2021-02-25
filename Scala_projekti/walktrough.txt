@@ -1,0 +1,50 @@
+Walktroug for the theft
+
+You have two possible ways to solve the game.
+
+1.(How the game was planned to be played)
+
+go west
+go north
+get sedatives
+go south
+go east
+go east
+get beef
+look at big picture
+go west
+look at small picture
+use sedatives
+go up
+use beef
+go west
+get papers
+examine papers
+(You realise that dog is important for his owner and it's name is Garfield)
+open safe garfield
+(it doesn't matter if you write "garfield with upper or lower case characters)
+get evidence
+go east
+go down
+go south
+(You won)
+
+
+2.(If you are a violent person or you waste your beef, you can also use a gun)
+go west
+get gun
+go east
+look at small picture
+go up
+use gun
+go west
+get papers
+examine papers
+(You realise that dog is important for his owner and it's name is Garfield)
+open safe garfield
+(it doesn't matter if you write "garfield" with upper or lower case characters)
+get evidence
+go east
+go down
+go south
+(You won)

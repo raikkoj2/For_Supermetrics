@@ -1,16 +1,4 @@
-# Sivustolla korkeakouluun.fi toimivan laskurin lähdekoodi.
-# Koodin dokumentaatio on erillisessä tiedostossa 'documentation.txt', mutta
-# koodia on kommentoitu siten, että koodia voi ymmärtää lukematta dokumentaatiota.
-# Viimeisin muokkausajankohta: 25.11.2020
-# Tekijät: Jere Niemi & Joonas Räikkönen
-
-# VIIMEISIMMÄT MUUTOKSET
-# 25.11.2020 00.30
-# Koodiin on implementoitu tarvittavat metodit äidinkielen käsittelyä varten
-# 25.11.2020 01.05
-# Koodiin on implementoitu tarvittavat metodit uskonnolisten aineiden käsittelyä varten
-#
-
+# Tekijät: Joonas Räikkönen & Jere Niemi
 
 # Työkalut ohjelman ulkopuolelta.
 import psycopg2

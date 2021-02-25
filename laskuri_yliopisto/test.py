@@ -16,7 +16,7 @@ mydb = psycopg2.connect(
         host="localhost",
         database="laskurin_data",
         user="postgres",
-        password="kkouluun"
+        password=""
     )
 
 

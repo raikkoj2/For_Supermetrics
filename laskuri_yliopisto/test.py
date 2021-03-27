@@ -1,10 +1,10 @@
-from .aineiden_kasittelijat import aineet_syotteesta, kielet_syotteesta, poista_aine, xxx_syotteesta, aidinkielet_syotteesta, paras_aidinkielen_arvosana_syotteesta
-from .kynnysehtojen_tarkistin import tayttyyko_kynnysehto
-from .laskumetodit import aidinkielen_pisteenlasku_normaali, aineen_pistelasku, kauttaviivatilanne, paras_kieli_pitka, paras_kieli
-from .laskumetodit import paras_xxx_ainereaali, paras_xxx_aine, kaksi_kolmesta, muu_syotteessa
-from .apumetodit import convert
-from .erikoislaskutavat import elintarviketiede, viestintatieteet, yhteiskuntatieteet, saamelainen_kulttuuri
-from .aineet import ainereaalit, matemaattiset_aineet, yhteiskuntatieteelliset_aineet, aidinkielet, uskonnolliset_aineet
+from aineiden_kasittelijat import aineet_syotteesta, kielet_syotteesta, poista_aine, xxx_syotteesta, aidinkielet_syotteesta, paras_aidinkielen_arvosana_syotteesta
+from kynnysehtojen_tarkistin import tayttyyko_kynnysehto
+from laskumetodit import aidinkielen_pisteenlasku_normaali, aineen_pistelasku, kauttaviivatilanne, paras_kieli_pitka, paras_kieli
+from laskumetodit import paras_xxx_ainereaali, paras_xxx_aine, kaksi_kolmesta, muu_syotteessa
+from apumetodit import convert
+from erikoislaskutavat import elintarviketiede, viestintatieteet, yhteiskuntatieteet, saamelainen_kulttuuri
+from aineet import ainereaalit, matemaattiset_aineet, yhteiskuntatieteelliset_aineet, aidinkielet, uskonnolliset_aineet
 
 import psycopg2
 

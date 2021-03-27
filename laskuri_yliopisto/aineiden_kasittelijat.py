@@ -1,5 +1,5 @@
-from .aineet import ainereaalit, kielet, matemaattiset_aineet, yhteiskuntatieteelliset_aineet, aidinkielet, uskonnolliset_aineet
-from .apumetodit import arvosanamuunnin
+from aineet import ainereaalit, kielet, matemaattiset_aineet, yhteiskuntatieteelliset_aineet, aidinkielet, uskonnolliset_aineet
+from apumetodit import arvosanamuunnin
 
 # Ottaa syötteestä aineet erilleen arvosanoista ja listaa ne yhteen bufferiin
 # toimii, Joonas

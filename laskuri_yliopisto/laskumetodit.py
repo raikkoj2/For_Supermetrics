@@ -1,5 +1,5 @@
-from .apumetodit import hae_pisteet
-from .aineiden_kasittelijat import poista_aine, on_kieli
+from apumetodit import hae_pisteet
+from aineiden_kasittelijat import poista_aine, on_kieli
 import psycopg2
 
 

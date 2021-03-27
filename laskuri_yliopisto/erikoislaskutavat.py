@@ -1,7 +1,7 @@
-from .apumetodit import arvosanamuunnin, hae_pisteet
-from .laskumetodit import aineen_pistelasku, paras_kieli, paras_xxx_aine, kauttaviivatilanne, muu_syotteessa, paras_xxx_ainereaali, aidinkielen_pisteenlasku_normaali
-from .aineiden_kasittelijat import poista_aine
-from .aineet import yhteiskuntatieteelliset_aineet
+from apumetodit import arvosanamuunnin, hae_pisteet
+from laskumetodit import aineen_pistelasku, paras_kieli, paras_xxx_aine, kauttaviivatilanne, muu_syotteessa, paras_xxx_ainereaali, aidinkielen_pisteenlasku_normaali
+from aineiden_kasittelijat import poista_aine
+from aineet import yhteiskuntatieteelliset_aineet
 
 
 # Testattu, löydetyt bugit korjattu, pitäisi toimia oikein kaikissa tilanteissa, Joonas
